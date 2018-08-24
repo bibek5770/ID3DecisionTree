@@ -1,3 +1,3 @@
-# ID3DecisionTree
+# Machine Learning through ID3DecisionTree algorithm
 
-A decision tree based machine learning system written in Python as a part of machine learning class.
+A decision tree based machine learning system written in Python.
